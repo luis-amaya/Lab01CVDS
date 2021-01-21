@@ -1,0 +1,18 @@
+----------------------- libro.txt -----------------------
+EL LIBRO MAS FAMOSO DEL MUNDO
+
+AUTORES:
+Luis
+Sebastian
+
+
+
+
+CAPITULO UNO
+
+
+CAPITULO DOS
+
+
+CAPITULO TRES
+---------------------------------------------------------
